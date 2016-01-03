@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WakeUp</string>
+    <string name="wake_button">Wake</string>
+    <string name="edit_text_hint">Insert MAC Address here</string>
+</resources>
